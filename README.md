@@ -1,5 +1,5 @@
 # Prueba React Native - LISTA MERCADO
-Prueba por [Daniel Alzate]
+Prueba realizada por [Daniel Alzate]
 
 # Cómo se hizo para llegar al resultado:
 
