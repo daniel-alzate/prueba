@@ -1,17 +1,16 @@
 # Prueba React Native - LISTA MERCADO
 Prueba por [Daniel Alzate]
 
+# Cómo se hizo para llegar al resultado:
 
-#Cómo se hizo para llegar al resultado:
+# Cómo ejecutar el proyecto:
 
-#Como ejecutar el proyecto:
-
-#Herramienta usadas:
+# Herramienta usadas:
 Atom
 Android virtual Divace de android studio
 Github Desktop
 
-#Restricciones: 
+# Restricciones: 
 1. Image
 2. ScrollView  
 3. Text 
