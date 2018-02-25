@@ -1,6 +1,6 @@
 # Prueba React Native - LISTA MERCADO
 
-Prueba made by [Fullstack Development]
+Prueba por [Daniel Alzate]
 
 
 # Screenshot
