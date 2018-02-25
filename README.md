@@ -6,9 +6,9 @@ Prueba por [Daniel Alzate]
 # Cómo ejecutar el proyecto:
 
 # Herramienta usadas:
-Atom
-Android virtual Divace de android studio
-Github Desktop
+1. Atom
+2. Android Virtual Divace de Android Studio  
+3. Github Deskto
 
 # Restricciones: 
 1. Image
