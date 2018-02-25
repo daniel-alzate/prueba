@@ -10,12 +10,17 @@ Analizando la documentación, se entiende que react-native es un framework para 
 Se inicio instalando las dependencias Node, Python2, JDK usando el administrador de paquetes Chocolatey. Al instalar node se instaló npm, con este se instala la Interfaz de línea de comando de React Native la cual permite ejecutar las directrices para inicializar el proyecto y posteriormente ejecutarlo en android.
 
 
-Antes de ejecutar el proyecto fue necesario configurar el entorno de desarrollo Android, conformado por las Google APIs, el SDK 23 y un emulador de Android, lo cual se hizo con el IDE android studio.
+Antes de ejecutar el proyecto, fue necesario configurar el entorno de desarrollo Android. Se descarga las Google APIs, el SDK 23 y se configura un emulador de Android, lo cual se hizo con el IDE android studio.
 
 Una vez terminada la configuración, se procedió a modificar la aplicación base. 
 
 
 # Cómo ejecutar el proyecto:
+
+1. Se descarga el proyecto desde GitHub.
+2. Se configura un Virtual Device o un dispositivo físico para desplegar la app.
+3. Dentro del directorio "prueba-master" se debe contar con los node_modules (npm install --save react-navigation) y se ejecuta el comando react-native run-android
+
 
 # Herramienta usadas:
 1. Atom
